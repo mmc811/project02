@@ -1,3 +1,5 @@
 git clone <link>
 git status
 git add .
+git commit -m "my first project in GitHub"
+git push
